@@ -18,6 +18,7 @@ public class student {
 	}
 	void display() {
 		System.out.println("Name ="+name+", Roll="+roll+", mark1="+mark1+", mark2="+mark2+", mark3="+mark3);
+		System.out.println("Total mark= "+totalmark);
 	}
 	
 }
